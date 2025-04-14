@@ -1,0 +1,17 @@
+{
+    "teleports": [
+        [
+            {
+                "_name": "Coke Processing Enter/Exit",
+                "coords": [780.82, -2345.02, 25.32, 271.96],
+                "allowVehicle": false,
+                "drawText": "[E] Enter Coke Processing"
+            },
+            {
+                "coords": [1088.81, -3187.57, -38.99, 181.2],
+                "allowVehicle": false,
+                "drawText": "[E] Leave"
+            }
+        ]
+    ]
+}
